@@ -1,3 +1,7 @@
+/* Quine-McCluskey-Petrick minimizer
+ * 2018 Marcos Jiménez <mjecci a+ gmai1 d0+ c0m>
+ */
+
 #include <iostream>
 #include <vector>
 

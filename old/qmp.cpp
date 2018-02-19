@@ -1,5 +1,5 @@
 /* Quine-McCluskey-Petrick minimizer
- * 2012
+ * 2012 Marcos Jiménez <mjecci a+ gmai1 d0+ c0m>
  */
 
 #include <iostream>

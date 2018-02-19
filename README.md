@@ -1,17 +1,16 @@
 # qmp
-Quine-McCluskey + Petrick logic minimizer.
-2018 Marcos Jimenez <mjecci a+ gmai1 d0+ c0m>
-From [https://sites.google.com/site/simpogical/download]
+Quine-McCluskey + Petrick logic minimizer.<br/>
+From <https://sites.google.com/site/simpogical/download>
 
 ## Compile
-	`g++ -o qmp qmp.cpp`
+	g++ -o qmp qmp.cpp
 
 ## Run
-	`./qmp`
-	`./qmp < file`
+	./qmp
+	./qmp < file
 
 ## Input (until EOF)
-	`#variables <list of minterms> [d <list of don't cares>] + Enter + Ctrl-D (Ctrl-Z win)`
+	#variables <list of minterms> [d <list of don't cares>] + Enter + Ctrl-D (Ctrl-Z win)
 
 ### Ex. 1
 	3 0 1 2 7 5 6
